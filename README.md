@@ -1,15 +1,14 @@
-# learn-algorithm-and-data-structure-in-burmese
+# algorithm-specialization-in-burmese
 
-Learn algorithm and data structure in Burmese (Myanmar) with me. I am explaing what I learn about Algorithm in Burmese.
-
+I am attending [Algorithms Specialization](https://www.coursera.org) course on Coursera. I gonna explain those about to myself for my understand in Burmese. So, here it's.
 
 ## Week I
 
 ### I. INTRODUCTION
 
-- [Why](why.md)
-- [Why study algorithm?](week1/inroduction/why-study-algorithm.md)
-- [Integer Multiplication](week1/inroduction/integer-multiplication.md)
+- [Why](week1/introduction/why.md)
+- [Why study algorithm?](week1/introduction/why-study-algorithm.md)
+- [Integer Multiplication](week1/introduction/integer-multiplication.md)
 
 ### II. ASYMPTOTIC ANALYSIS
 
